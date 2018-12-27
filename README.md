@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # [UnbelievablySmart](http://startbootstrap.com/) 
 
 [Resume](https://unbelievablysmart.github.io/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Slava Levkovich](http://vk.com/id208041605).
@@ -38,4 +37,3 @@ Copyright 2016 ClearCareer. Code released under the [Creative Commons 4.0](https
 This resume template uses the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 =======
 # UnbelievablySmart.github.io
->>>>>>> 0d23b490ef92cac4496547bba73ee531192b35b0
