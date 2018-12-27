@@ -34,6 +34,6 @@ Copyright 2016 ClearCareer. Code released under the [Creative Commons 4.0](https
 [IconMoon](https://icomoon.io/)  
 [FontAwesome](http://fontawesome.io/)  
 
-## This resume template uses the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-=======
-## UnbelievablySmart.github.io
+### This resume template uses the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+### UnbelievablySmart.github.io
